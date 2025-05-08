@@ -17,6 +17,6 @@
     "@types/marked": "4.3.0",
     "@types/puppeteer": "5.4.7",
     "@types/puppeteer-core": "5.4.0",
-    "typescript": "5.0.4"
+    "typescript": "5.8.3"
   }
 }
